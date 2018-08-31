@@ -1,0 +1,128 @@
+﻿.anchor_page {
+    color: #337ab7;
+    text-decoration: none;
+    display: block;
+    background: #8b73b5;
+    width: 20px;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-right: 2px;
+}
+
+#GoToPage {
+    display: inline-table !important;
+    width: 100px !important;
+    /*margin-left: 45%;*/
+    height: 34px !important;
+    padding: 6px 12px !important;
+    font-size: 14px !important;
+    line-height: 1.42857143 !important;
+    color: #555 !important;
+    background-color: #fff !important;
+    background-image: none !important;
+    border: 1px solid #ccc !important;
+    border-radius: 4px !important;
+}
+
+.NextPrevious {
+    color: #337ab7;
+    text-decoration: none;
+    display: block;
+    background: #746caf !important;
+    width: 100px;
+    margin-top: 3px;
+    margin-left: 7px;
+    float: left;
+    color: white;
+    text-align: center;
+    margin-right: 2px;
+}
+
+thead.HeaderCss th {
+    border: 1px solid rgb(221, 221, 221);
+    text-align: center;
+    padding: 12px;
+}
+
+#tbl tr.rowCss {
+    text-align: center;
+    border: 0px solid #eccbcb;
+}
+
+#tbl button {
+    /* background: red; */
+    background-color: #b8b2ea;
+    border: none;
+    color: white;
+    padding: 3px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+#tbl input {
+    display: block;
+    width: 80%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.anchor_page a:active {
+    color: white;
+    background-color: #4CAF50;
+    color: white;
+}
+
+.srch {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.PluginCss {
+    border: 0px solid #ffffff;
+    padding: 0.3%;
+}
+.DivEnclosed {
+    width: 100%;
+    overflow: auto;
+}
+td.ActioncellClass {
+    float: left;
+    width: 160px;
+}
+
+tr {
+    border: 1px solid #eccbcb;
+}
+.CurrentPage {
+        margin-left: 40%;
+    width: 50%;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+tr td,tr th {
+        padding: 0.9% ;
+        border: 1px solid rgb(221, 221, 221);
+}

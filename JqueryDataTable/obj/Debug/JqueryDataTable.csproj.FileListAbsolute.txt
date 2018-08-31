@@ -1,0 +1,11 @@
+C:\Users\pxv1009\Documents\Visual Studio 2012\Projects\MVC4HandsOn\AngularJsFromScratch\JqueryDataTable\JqueryDataTable\bin\JqueryDataTable.dll
+C:\Users\pxv1009\Documents\Visual Studio 2012\Projects\MVC4HandsOn\AngularJsFromScratch\JqueryDataTable\JqueryDataTable\bin\JqueryDataTable.pdb
+C:\Users\pxv1009\Documents\Visual Studio 2012\Projects\MVC4HandsOn\AngularJsFromScratch\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.csprojResolveAssemblyReference.cache
+C:\Users\pxv1009\Documents\Visual Studio 2012\Projects\MVC4HandsOn\AngularJsFromScratch\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.dll
+C:\Users\pxv1009\Documents\Visual Studio 2012\Projects\MVC4HandsOn\AngularJsFromScratch\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.pdb
+H:\MyProjects\JqueryDataTable\JqueryDataTable\bin\JqueryDataTable.dll.config
+H:\MyProjects\JqueryDataTable\JqueryDataTable\bin\JqueryDataTable.dll
+H:\MyProjects\JqueryDataTable\JqueryDataTable\bin\JqueryDataTable.pdb
+H:\MyProjects\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.csprojResolveAssemblyReference.cache
+H:\MyProjects\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.dll
+H:\MyProjects\JqueryDataTable\JqueryDataTable\obj\Debug\JqueryDataTable.pdb
