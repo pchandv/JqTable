@@ -660,7 +660,7 @@ var colSpanForNoreCords;
         });
         return Editbutton;
     }
-    function CreateSaveButton(i, index) {
+    function CreateSaveButton(i, index, length) {
         var Savebutton = $('<button id="Save_' + i + "_" + index + '" style="display: none;">Save</button>').click(function () {
 
             var em = {};
@@ -694,7 +694,7 @@ var colSpanForNoreCords;
             });
 
             if (successFlag) {
-                for (var j = 0; j < array.length; j++) {
+                for (var j = 0; j < length; j++) {
                     $('#txtbox_' + i + "_" + j).css("display", "none");
                     $('#par_' + i + "_" + j).css("display", "");
 
@@ -705,7 +705,7 @@ var colSpanForNoreCords;
             $('#Cancel_' + i + '_' + index).css("display", "none");
             $('#Edit_' + i + '_' + index).css("display", "");
             //$('#Edit_' + i + '_' + index).css("float", "left");
-            $("#Delete_" + i + '_' + j).css("display", "");
+            $("#Delete_" + i + '_' + index).css("display", "");
 
 
             return false;
@@ -1057,7 +1057,7 @@ var colSpanForNoreCords;
             //var EditCell = $('<td><input type="button" id="btnEdit_' + i + '" value="Edit" /></td>');
             var Editbutton = CreateEditButton(i, index, array.length);
             var Deletebutton = CreateDeleteButton(i, index, array.length);
-            var Savebutton = CreateSaveButton(i, index);
+            var Savebutton = CreateSaveButton(i, index, array.length);
             var Cancelbutton = CreateCancelButton(i, index, array.length);
             var EditCell = $('<td></td>').append(Editbutton);
             EditCell.append(Savebutton);
